@@ -14,6 +14,7 @@
 | :---------------------: | :-----------------------------------------------------------------------------: | :--------: |
 | 24.09.02 | OT |  [0. OT](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/0.%20OT.pdf) |
 | 09.09 | system call, interrupt, I/O |  [1. system call, interrupt, I/O](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/1.%20system_call%2C%20interrupt%2C%20IO.pdf) |
+| 09.23 | process, IPC, thread |  [2. process, IPC, thread](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/2.%20process%2C%20thread.pdf) |
 
 
 ## 🙆‍♂️🙆 함께 공부하는 사람들
