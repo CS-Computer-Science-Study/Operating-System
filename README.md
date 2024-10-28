@@ -16,6 +16,7 @@
 | 09.09 | system call, interrupt, I/O |  [1. system call, interrupt, I/O](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/1.%20system_call%2C%20interrupt%2C%20IO.pdf) |
 | 09.23 | process, IPC, thread |  [2. process, IPC, thread](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/2.%20process%2C%20IPC%2C%20thread.pdf) |
 | 09.30 | network in Linux |  [3. network in Linux](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/3.%20network%20in%20linux.pdf) |
+| 10.28 | synchronization, deadlock |  [4. synchronization, deadlock](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/4.%20synchronization%2C%20deadlock) |
 
 
 ## 🙆‍♂️🙆 함께 공부하는 사람들
