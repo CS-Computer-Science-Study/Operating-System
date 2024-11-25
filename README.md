@@ -8,7 +8,7 @@
 - 단방향보다는 양방향을 지향 (질문 대환영)
 - **함께 고민하고, 공부하는 시간**
 
-## 📆 스터디 일정(24.09.02 ~ 진행 중)
+## 📆 스터디 일정(24.09.02 ~ 24.11.25)
 
 |          발표일           |                                       주제                                        |       발표자료  |
 | :---------------------: | :-----------------------------------------------------------------------------: | :--------: |
@@ -22,6 +22,7 @@
 | 11.11 | sheduling, file system |  [6. sheduling, file system](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/6.%20sheduling%2C%20file%20system.pdf) |
 | 11.14 | Cryptography(GDG 연합세션 발표) |  [Cryptography](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/Cryptography(GDG).pdf) |
 | 11.18 | sync, async, block, non-block |  [7. sync, async, block, non-block](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/7.%20sync%2C%20async%2C%20block%2C%20non-block.pdf) |
+| 11.25 | container |  [8. container](https://github.com/CS-Computer-Science-Study/Operating-System/blob/main/8.%20container.pdf) |
 
 
 ## 🙆‍♂️🙆 함께 공부하는 사람들
