@@ -15,7 +15,10 @@ public class RSAWarmup {
             rsa.method();
         }
         printResult(rsa);
-        for (int i = 1; i < 200; i++) {
+        for (int i = 0; i < 5000; i++) {
+            if (i % 1000 == 0) {
+                System.out.println(i);
+            }
             rsa.method();
         }
         printResult(rsa);
@@ -25,7 +28,7 @@ public class RSAWarmup {
         long startTime = System.nanoTime();
         rsa.method();
         long endTime = System.nanoTime();
-        System.out.println(endTime - startTime);
+        System.out.println("time: " + (endTime - startTime));
     }
 
     public void method() {
